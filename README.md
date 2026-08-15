@@ -1,4 +1,4 @@
-📰 News Detection Pipeline
+📰 Scalable Hybrid News Detection & Verification Pipeline
 
 A Scalable Hybrid Framework for Detecting Duplicate, Paraphrased, and AI-Generated News Content
 
